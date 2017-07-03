@@ -1,3 +1,7 @@
+Patch adding "snap to border" functionality. Recognizes a rectangular area inside the region selected for "screenshotting", and snaps the screenshot selection. See it in action https://www.youtube.com/watch?v=Y4Gb7NgOPLI&t
+
+Original README:
+
 ScreenGrab
 ==========
 
